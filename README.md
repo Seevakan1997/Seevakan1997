@@ -1,3 +1,52 @@
+<div align="center">
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <text x="10" y="50" font-size="24" font-family="Arial" fill="black" class="typing-text">Hi there!</text>
+  </svg>
+</div>
+
+<style>
+  @keyframes typing {
+    0% {
+      visibility: hidden;
+    }
+    10% {
+      visibility: visible;
+    }
+    20% {
+      visibility: hidden;
+    }
+    30% {
+      visibility: visible;
+    }
+    40% {
+      visibility: hidden;
+    }
+    50% {
+      visibility: visible;
+    }
+    60% {
+      visibility: hidden;
+    }
+    70% {
+      visibility: visible;
+    }
+    80% {
+      visibility: hidden;
+    }
+    90% {
+      visibility: visible;
+    }
+    100% {
+      visibility: hidden;
+    }
+  }
+
+  .typing-text {
+    animation: typing 2s steps(1, end) infinite;
+  }
+</style>
+
+
 ## 🚀 About Me
 - 🎓 I’m Seevakan
 - 💻  𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.
