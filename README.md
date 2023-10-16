@@ -22,6 +22,8 @@
 ![CSS](https://img.shields.io/badge/CSS-Styles-blue?logo=css3&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple?logo=bootstrap&style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-Library-blue?logo=jquery&style=flat)
+[![Laravel](https://img.shields.io/badge/Laravel-PHP%20Framework-FF2D20?logo=laravel&style=flat-square)](https://laravel.com/)
+
 
 
 ## Cross Platform Development
