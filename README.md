@@ -1,3 +1,20 @@
+<svg viewBox="0 0 100 100">
+  <path fill="none" stroke="black" stroke-width="5" d="M0,50 L100,50"/>
+  <animate attributeName="d" values="M0,50 L100,50; M50,0 L50,100; M0,50 L100,50" dur="1s" repeatCount="indefinite"/>
+</svg>
+.s-animation {
+  animation: s-animation 1s infinite;
+}
+
+@keyframes s-animation {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+<h1 class="s-animation">S</h1>
 
 ## 🚀 About Me
 - 🎓 I’m Seevakan
