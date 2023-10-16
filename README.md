@@ -8,7 +8,7 @@
 - JavaScript
 - Dart
 - Java
-- 
+
 ## Front-End Development
 
 - React
