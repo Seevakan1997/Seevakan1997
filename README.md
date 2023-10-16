@@ -12,11 +12,23 @@
 
 ## Front-End Development
 
-- React
-- Redux
-- React Router
-- Tailwind CSS
-- HTML
-- CSS
-- Bootstrap
-- jQuery
+![React](https://img.shields.io/badge/React-Library-blue?logo=react&style=flat)
+![Redux](https://img.shields.io/badge/Redux-State%20Management-purple?logo=redux&style=flat)
+![React Router](https://img.shields.io/badge/React%20Router-Routing-green?logo=react-router&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-CSS%20Framework-blue?logo=tailwind-css&style=flat)
+![HTML](https://img.shields.io/badge/HTML-Markup-red?logo=html5&style=flat)
+![CSS](https://img.shields.io/badge/CSS-Styles-blue?logo=css3&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple?logo=bootstrap&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-Library-blue?logo=jquery&style=flat)
+
+
+## Cross Platform Development
+
+![React Native](https://img.shields.io/badge/React%20Native-Framework-blue?logo=react&style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter&style=flat)
+
+
+## Backend as a Service
+
+![Firebase](https://img.shields.io/badge/Firebase-Database-orange?logo=firebase&style=flat)
+
