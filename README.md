@@ -1,5 +1,6 @@
 <div align="center">
   <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+     <img src="https://your-server.com/animated.svg" alt="Hi there!" width="400" height="100">
     <text x="10" y="50" font-size="24" font-family="Arial" fill="black" class="typing-text">Hi there!</text>
   </svg>
 </div>
