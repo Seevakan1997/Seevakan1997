@@ -5,9 +5,9 @@
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Dart](https://img.shields.io/badge/Dart-Flutter-blue)
-![Java](https://img.shields.io/badge/Java-Android-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Dart](https://img.shields.io/badge/Dart-blue)
+![Java](https://img.shields.io/badge/Java-green)
 
 
 ## Front-End Development
