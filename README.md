@@ -1,3 +1,5 @@
+# Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px">
+
 ## 🚀 About Me
 - 🎓 I’m Seevakan
 - 💻 𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.
