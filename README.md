@@ -3,14 +3,14 @@
 
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Software+Engineer;I'm +a+Fullstack+Developer;I'm +a+Machine+Learning+Enthusiastic;I'm+a+Undergraduate+Researcher;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Software+Engineer;I'm +a+Fullstack+Developer;I'm +a+Machine+Learning+Enthusiastic;I'm+a+Researcher;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>
 </div> 
 <br>
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🚀 About Me
 - 🎓 I’m Seevakan
-- 💻 𝐈'𝐦 𝐚 𝐒𝐭𝐮𝐝𝐞𝐧𝐭, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.
+- 💻 𝐈'𝐦 𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.
 - 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 ... 𝐌𝐚𝐢𝐥: 𝐬𝐞𝐞𝐯𝐚𝐤𝐚𝐧𝟏@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 
 [![An image of @seevakan1997's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seevakan1997)](https://holopin.io/@seevakan1997)
